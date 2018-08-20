@@ -40,4 +40,4 @@ optional arguments:
 
 ## Sample Images
 
-[](https://raw.githubusercontent.com/DTennant/CycleGAN/master/sample.jpg)
+[](https://github.com/DTennant/CycleGAN/raw/master/sample.jpg)
