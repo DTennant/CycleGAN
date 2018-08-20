@@ -40,4 +40,4 @@ optional arguments:
 
 ## Sample Images
 
-To be uploaded (still training)
+[](https://raw.githubusercontent.com/DTennant/CycleGAN/master/sample.jpg)
